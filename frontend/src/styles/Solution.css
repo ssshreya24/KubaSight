@@ -1,0 +1,188 @@
+/* General Page Styling */
+body {
+  margin: 0;
+  font-family: 'Georgia', serif;
+  background-color: #1f2e3c;
+  color: white;
+}
+
+.solution-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  display: flex;
+  justify-content: center;
+}
+
+/* Unified Box Container */
+.answer-box {
+  background-color: #2a3744;
+  border-radius: 14px;
+  padding: 30px;
+  width: 100%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+/* Logo Section */
+.top {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.top .logo {
+  width: 120px;
+  height: auto;
+}
+
+/* Explanation Section */
+.explanation-box h3 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  color: #fff;
+}
+
+.explanation-box h4 {
+  font-size: 18px;
+  color: #d0d5dc;
+  margin-bottom: 10px;
+}
+
+.explanation-box p,
+.explanation-box ul,
+.explanation-box ol {
+  font-size: 16px;
+  color: #d0d5dc;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.explanation-box ul {
+  padding-left: 20px;
+}
+
+.explanation-box li {
+  margin-bottom: 6px;
+}
+
+/* QA Box */
+.qa-box {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  gap: 14px;
+}
+
+.qa-box label {
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.qa-box input[type="text"] {
+  padding: 16px 20px;
+  font-size: 18px;
+  border-radius: 12px;
+  border: none;
+  background-color: #e9f0f5;
+  color: #333;
+  width: 100%;
+  max-width: 1120px;
+
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+.qa-box button {
+  align-self: flex-start;
+  padding: 10px 26px;
+  font-size: 16px;
+  background-color: #2e3b4e;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.qa-box button:hover {
+  background-color: #1f2733;
+}
+
+/* Gemini Answer Section */
+.answer-box > .answer-box {
+  background-color: #1f2e3c;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding: 20px;
+  width: 100%;
+  max-width: 120px; /* You can change this to 600px, 500px as needed */
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.answer-box strong {
+  font-size: 18px;
+  color: #fff;
+}
+
+.answer-content {
+  font-size: 16px;
+  color: #d0d5dc;
+  margin-top: 10px;
+  line-height: 1.7;
+}
+
+/* Inline Code Highlighting */
+code {
+  background-color: #31404f;
+  color: #92e0ff;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: "Courier New", monospace;
+}
+
+/* Code Block */
+pre.code-block {
+  background-color: #1e2c38;
+  padding: 12px 16px;
+  border-radius: 10px;
+  overflow-x: auto;
+  margin-top: 12px;
+  color: #d0d5dc;
+  font-size: 14px;
+  font-family: "Courier New", monospace;
+}
+
+/* Responsive */
+@media screen and (max-width: 768px) {
+  .solution-container {
+    padding: 20px 10px;
+  }
+
+  .qa-box input[type="text"] {
+    font-size: 16px;
+  }
+
+  .qa-box label,
+  .explanation-box h3 {
+    font-size: 18px;
+  }
+
+  .answer-content {
+    font-size: 15px;
+  }
+}
+.gemini-answer {
+  background-color: #1f2e3c;
+  margin-top: 20px;
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 1120px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
