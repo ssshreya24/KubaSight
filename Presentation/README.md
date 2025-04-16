@@ -15,7 +15,7 @@ This folder contains the official presentation for **KubaSight**, an AI-powered 
 ## 🌐 Live Demo
 
 Visit the live web app here:  
-🔗 [(https://kubesight.vercel.app](https://kubesight.vercel.app)
+🔗 [https://kubesight.vercel.app](https://kubesight.vercel.app)
 
 ---
 
