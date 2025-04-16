@@ -151,7 +151,7 @@ Built with ❤️ by:
 
 - **AI/ML Lead**: [Shreya Singh](https://github.com/ssshreya24)
 - **Backend Developer**: [Prince Kumar](https://github.com/Ranaprince19)
-- **Frontend Developer**: [Harshit Gola]
+- **Frontend Developer**: Harshit Gola
 
 - **AI/ML Integration**: Flask + Gemini
 - **Hackathon Role**: DevOps x AI Automation Track
