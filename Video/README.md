@@ -9,7 +9,7 @@ This folder contains the demonstration video of **KubaSight**, an AI-powered sys
 As GitHub restricts files larger than 100MB, the actual demo video is stored on Google Drive.
 
 🎬 **Access the demo video here**:  
-🔗 [KubaSight Demo - Google Drive]((https://drive.google.com/file/d/1d4LXaCOl2NZrEBP6Br8ullzGhBzJndVx/view))
+🔗 [KubaSight Demo - Google Drive](https://drive.google.com/file/d/1d4LXaCOl2NZrEBP6Br8ullzGhBzJndVx/view)
 
 ---
 
