@@ -1,7 +1,8 @@
 
 # 🚀 KubaSight - AI-Driven Kubernetes Failure Prediction & Remediation System
-
-![KubaSight Banner](https://raw.githubusercontent.com/ssshreya24/KubaSight/main/frontend/assets/images/image2.svg)
+<p align="right">
+  <img src="https://drive.google.com/file/d/1d2CMJi6vZHFLidm45MstA3p1tyz0yFxi/view?usp=sharing" alt="KubaSight Logo" width="150"/>
+</p>n/frontend/assets/images/image2.svg)
 
 KubaSight is an end-to-end intelligent system designed to **predict**, **analyze**, and **recommend solutions** for failures in Kubernetes clusters using AI/ML. It combines a powerful machine learning engine with an interactive frontend and Gemini-powered chatbot, making Kubernetes infrastructure management smarter and more resilient.
 
