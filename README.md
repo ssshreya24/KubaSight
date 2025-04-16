@@ -127,10 +127,8 @@ Backend runs at: http://localhost:5000
 
 ---
 
-## 📸 Screenshots
-
-> Screenshots from the live system shown in the `presentation/KubaSight.pdf`
-
+## 📸 Videos 
+[`KubeSight_Video`](https://drive.google.com/file/d/1d4LXaCOl2NZrEBP6Br8ullzGhBzJndVx/view)
 - Metric Input UI  
 - Prediction Output Card  
 - Gemini Chatbot Interface  
@@ -153,7 +151,7 @@ Built with ❤️ by:
 
 - **AI/ML Lead**: [Shreya Singh](https://github.com/ssshreya24)
 - **Backend Developer**: [Prince Kumar](https://github.com/Ranaprince19)
-- **Frontend Developer**: [Harshit Gola](https://github.com/itsharshit07)
+- **Frontend Developer**: [Harshit Gola]
 
 - **AI/ML Integration**: Flask + Gemini
 - **Hackathon Role**: DevOps x AI Automation Track
