@@ -76,6 +76,9 @@ KubaSight/
   - Model training and evaluation
   - Joblib export logic
 
+
+### 📽️[`/Final Demo Video`](https://drive.google.com/file/d/1KrHtcam7Si2_Nheb2OBXHKdbmHZnfNhi/view?usp=sharing)
+ - After receiving the feedback for the final video
 ### 📽️ [`/Demo Video`](https://drive.google.com/file/d/1g3C7yC7yZGptnkACpHKP7bEcg2kZVx_r/view?usp=sharing)
 - Google Drive video demo of live system walkthrough
 
