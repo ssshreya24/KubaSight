@@ -94,8 +94,6 @@ KubaSight/
 
 ## ⚙️ How to Run Locally
 
-### ✅ Frontend
-
 ```bash
 cd frontend
 npm install
@@ -103,16 +101,7 @@ npm run dev
 ```
 Visit: http://localhost:5173
 
-### ✅ Backend
 
-```bash
-cd backend
-pip install -r requirements.txt
-python app.py
-```
-Backend runs at: http://localhost:5000
-
----
 
 ## 🔌 API Integration
 
